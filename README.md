@@ -1,5 +1,7 @@
 Introduction to RESSEL
-RESSEL (Reliable Semi-Supervised Ensemble Learning) is a learning method that combines semi-supervised learning with ensemble learning.
+RESSEL (Reliable Semi-Supervised Ensemble Learning) is a learning method that combines semi-supervised learning with ensemble learning. The method was originally published in an article linked below. 🔬 
+Sjoerd de Vries et al in Knowledge-Based Systems vol. 215 p. 106738 (2021) 
+DOI: 10.1016/j.knosys.2021.106738 (https://doi.org/10.1016/j.knosys.2021.106738)
 
 In this approach, both labeled and unlabeled data are used to train the model. The goal is to leverage unlabeled data to improve supervised learning. The key idea behind RESSEL is that by utilizing a set of unlabeled samples, the classification process can be enhanced, leading to better prediction accuracy.
 
